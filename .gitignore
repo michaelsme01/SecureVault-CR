@@ -1,0 +1,10 @@
+profile_*/
+*.pkg
+*.pem
+*.db
+*.json
+*.bin
+test_doc.txt
+recuperado_*
+__pycache__/
+.DS_Store
